@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "fresh-py"
 version = "0.1.0"
-description = ""
+description = "An automated suite of tools to freshen up your python code pre-commit"
 authors = ["cottenplant <samcotten@gmail.com>"]
 
 [tool.poetry.dependencies]
